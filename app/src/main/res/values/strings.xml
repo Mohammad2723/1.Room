@@ -1,3 +1,7 @@
 <resources>
     <string name="app_name">1.Room</string>
+    <string name="todo">TODO</string>
+    <string name="list_is_empty">list is empty</string>
+    <string name="name">Name</string>
+    <string name="age">Age</string>
 </resources>
